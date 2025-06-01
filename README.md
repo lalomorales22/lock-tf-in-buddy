@@ -1,7 +1,8 @@
 
 # LockTFin - Focus Session Manager
 
-**URL**: https://lovable.dev/projects/6ae09e0f-736b-4b32-b238-1780c5892bb8
+![Screenshot 2025-06-01 at 2 01 27 PM](https://github.com/user-attachments/assets/4d7c9129-58d8-4f92-ae77-d80b524be04f)
+
 
 ## About LockTFin
 
@@ -15,20 +16,6 @@ LockTFin is a beautiful, intuitive focus session manager designed to help you ma
 - 🔒 **Focus Mode Simulation** - Experience a realistic focus environment (web prototype)
 - 💾 **Session Logging** - Automatic saving of all focus sessions with detailed analytics
 - 🎨 **Beautiful UI** - Clean, modern interface with smooth animations
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/6ae09e0f-736b-4b32-b238-1780c5892bb8) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
