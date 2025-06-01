@@ -23,10 +23,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/lalomorales22/window-whisper-time.git
+git clone https://github.com/lalomorales22/lock-tf-in-buddy.git
 
 # Step 2: Navigate to the project directory.
-cd window-whisper-time
+cd lock-tf-in-buddy
 
 # Step 3: Install the necessary dependencies.
 npm i
