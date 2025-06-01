@@ -1,8 +1,20 @@
-# Welcome to your Lovable project
 
-## Project info
+# LockTFin - Focus Session Manager
 
 **URL**: https://lovable.dev/projects/6ae09e0f-736b-4b32-b238-1780c5892bb8
+
+## About LockTFin
+
+LockTFin is a beautiful, intuitive focus session manager designed to help you maintain productivity by managing your application access during focused work sessions. With its clean, rounded interface and comprehensive session tracking, LockTFin makes it easy to stay on task.
+
+### Key Features
+
+- 🎯 **App Selection & Management** - Choose which applications to allow during focus sessions
+- ⏱️ **Customizable Timer** - Set focus sessions from 5 minutes to 4 hours
+- 📊 **Session Statistics** - Track your focus time, completion rates, and productivity trends
+- 🔒 **Focus Mode Simulation** - Experience a realistic focus environment (web prototype)
+- 💾 **Session Logging** - Automatic saving of all focus sessions with detailed analytics
+- 🎨 **Beautiful UI** - Clean, modern interface with smooth animations
 
 ## How can I edit this code?
 
@@ -24,10 +36,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/lalomorales22/window-whisper-time.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd window-whisper-time
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -54,15 +66,25 @@ npm run dev
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite** - Fast build tool and development server
+- **TypeScript** - Type-safe JavaScript development
+- **React** - Component-based UI framework
+- **shadcn/ui** - Beautiful, accessible UI components
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Beautiful icon library
+
+## Future Development
+
+This web prototype demonstrates the core UX and features of LockTFin. For production use with real application blocking capabilities, the app would need to be converted to a native macOS application using Swift/Xcode with proper system permissions for:
+
+- Application control and blocking
+- File system access for app selection
+- Global keyboard shortcut handling
+- System-level focus management
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/6ae09e0f-736b-4b32-b238-1780c5892bb8) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/6ae09e0f-736b-4b32-b238-1780c5892bb8) and click on Share → Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
